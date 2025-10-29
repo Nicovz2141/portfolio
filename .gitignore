@@ -1,0 +1,17 @@
+# Node / React
+**/node_modules/
+**/build/
+**/.env
+
+# Java / Spring Boot
+**/target/
+**/.mvn/
+**/*.iml
+**/*.class
+**/*.jar
+
+# IDE / OS files
+.DS_Store
+*.log
+*.tmp
+*.swp
